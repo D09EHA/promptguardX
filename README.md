@@ -65,7 +65,7 @@ streamlit run app.py
 ```
 
 ## 📽 Demo
-[Click to watch the demo](https://github.com/USERNAME/REPO_NAME/blob/main/demo.mp4)
+[Click to watch the demo](https://github.com/D09EHA/promptguardX/blob/main/demo1.mp4)
 
 
 COHERE_API_KEY

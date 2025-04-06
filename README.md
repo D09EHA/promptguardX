@@ -54,9 +54,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file with your OpenAI API key:
+4. Create a `.env` file with your cohere key:
 ```
-OPENAI_API_KEY=your_openai_api_key_here
+COHERE_API_KEY=your_cohere_api_key_here
 ```
 
 5. Run the application:
@@ -64,9 +64,11 @@ OPENAI_API_KEY=your_openai_api_key_here
 streamlit run app.py
 ```
 
-## 📷 Screenshots
+## 📽 Demo
+[Click to watch the demo](https://github.com/USERNAME/REPO_NAME/blob/main/demo.mp4)
 
-*Add screenshots of your application here*
+
+COHERE_API_KEY
 
 ## 🧰 Tech Stack
 
